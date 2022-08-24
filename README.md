@@ -29,3 +29,4 @@ Arrays y Objetos: [https://codesandbox.io/s/g2-arrays-objetos-fg6wwy](https://co
 
 Métodos de Array: [https://codesandbox.io/s/g2-metodos-arrays-wffs2z](https://codesandbox.io/s/g2-metodos-arrays-wffs2z)
 
+APIs: [https://codesandbox.io/s/g2-apis-6bhktm](https://codesandbox.io/s/g2-apis-6bhktm)
