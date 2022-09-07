@@ -32,3 +32,10 @@ Métodos de Array: [https://codesandbox.io/s/g2-metodos-arrays-wffs2z](https://c
 APIs: [https://codesandbox.io/s/g2-apis-6bhktm](https://codesandbox.io/s/g2-apis-6bhktm)
 
 Ayudantía 30/08: [https://codesandbox.io/s/g2-ayudantia-js-2-qusz79](https://codesandbox.io/s/g2-ayudantia-js-2-qusz79)
+
+<br>
+
+### Repositorios
+---
+
+Introducción React: [https://github.com/msantelices/ADL-G2-Intro-React](https://github.com/msantelices/ADL-G2-Intro-React)
