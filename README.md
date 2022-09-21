@@ -41,3 +41,6 @@ Ayudantía 30/08: [https://codesandbox.io/s/g2-ayudantia-js-2-qusz79](https://co
 Introducción React: [https://github.com/msantelices/ADL-G2-Intro-React](https://github.com/msantelices/ADL-G2-Intro-React)
 
 useState: [https://github.com/msantelices/G2-clase-useState](https://github.com/msantelices/G2-clase-useState)
+
+renderizado listas: [https://github.com/msantelices/G2-clase-listas](https://github.com/msantelices/G2-clase-listas)
+
