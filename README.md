@@ -44,3 +44,6 @@ useState: [https://github.com/msantelices/G2-clase-useState](https://github.com/
 
 renderizado listas: [https://github.com/msantelices/G2-clase-listas](https://github.com/msantelices/G2-clase-listas)
 
+useEffect: [https://github.com/msantelices/G2_clase_useEffect](https://github.com/msantelices/G2_clase_useEffect)
+
+
