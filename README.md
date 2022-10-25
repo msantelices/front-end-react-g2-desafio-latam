@@ -50,3 +50,5 @@ React Router parte 1: [https://github.com/msantelices/G2_clase_router_I](https:/
 
 Context: [https://github.com/msantelices/G2_clase_context](https://github.com/msantelices/G2_clase_context)
 
+React Router parte 2: [https://github.com/msantelices/G2-clase-Router-II](https://github.com/msantelices/G2-clase-Router-II)
+
